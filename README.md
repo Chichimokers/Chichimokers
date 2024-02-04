@@ -1,5 +1,5 @@
 ## 📝 Biografía
-Actual estudiante de Ingeniaria en Ciencias Informaticas (UCI)
+Actual estudiante de Ingeniería en Ciencias Informaticas (UCI)
 soy proactivo aprendo con rapidez las tecnologías
 vivo en la Habana
 
