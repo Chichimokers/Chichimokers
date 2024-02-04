@@ -6,7 +6,7 @@ Descripción: Con este bot alojado en alguna plataforma de hosting creas una cue
 configuras el boy y este sube los archivos a esas nubes y te devuelve los enlaces luego son descargados
 ## [MarketUci](https://github.com/Chichimokers/MarketUci)
 
-![Web de anuncios](https://marketuci.onrender.com))
+![Web de anuncios](https://marketuci.onrender.com)
 
 Descripción: Es una pequeña web creada con django , y en el front-end con html y css utilizando javascript jquery 
 
