@@ -18,8 +18,8 @@ Tu biografía aquí. ¡Mantenlo corto y enfocado!
 
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
-- Sitio web: [tu-sitio-web.com](https://marketuci.onrender.com/)
-- Twitter: [@tu_usuario](@iamcracks_ekisde)
+- Sitio web: [https://marketuci.onrender.com/]
+- Twitter: [@iamcracks_ekisde]()
 
 ## 📊 Estadísticas de GitHub
 - Número de repositorios
