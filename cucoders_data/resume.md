@@ -16,6 +16,7 @@
 -C#
 -Django
 -React
+-Python
 
 ## 🌎 Idiomas
 
