@@ -1,15 +1,10 @@
 ## 📝 Biografía
-Tu biografía aquí. ¡Mantenlo corto y enfocado!
+Actual estudiante de Ingeniaria en Ciencias Informaticas (UCI)
+soy proactivo aprendo con rapidez las tecnologías
+vivo en la Habana
 
-## 🚀 Proyectos
-- [Proyecto 1](https://your-project-1-url.com)
-- [Proyecto 2](https://your-project-2-url.com)
-- [Proyecto 3](https://your-project-3-url.com)
-
-## 💻 Repositorios
-- [Repositorio 1](https://github.com/your_username/repository1)
-- [Repositorio 2](https://github.com/your_username/repository2)
-- [Repositorio 3](https://github.com/your_username/repository3)
+## 🚀 Proyectos Desplegados
+- [https://marketuci.onrender.com]
 
 ## 🔧 Habilidades Principales
 - C#
@@ -24,15 +19,6 @@ Tu biografía aquí. ¡Mantenlo corto y enfocado!
 - Correo electrónico: ernestico833@gmail.com
 - Sitio web: [https://marketuci.onrender.com/]
 - Twitter: [@iamcracks_ekisde]()
+- +5358126024
 
-## 📊 Estadísticas de GitHub
-- Número de repositorios
-- Número de seguidores
-- Número de contribuciones
-
-## 💬 Comunidad
-- Contribuciones a código abierto
-- Membresías en organizaciones
-
-## 💡 Otra información
-- Otros datos interesantes o información sobre ti.
+.
