@@ -14,7 +14,11 @@ Tu biografía aquí. ¡Mantenlo corto y enfocado!
 ## 🔧 Habilidades Principales
 - C#
 - Python
-- 
+- Reactjs
+- .NET
+- C++
+- Nodejs
+- Javascript
 
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
