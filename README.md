@@ -4,7 +4,8 @@ soy proactivo aprendo con rapidez las tecnologías
 vivo en la Habana
 
 ## 🚀 Proyectos Desplegados
-- [https://marketuci.onrender.com]
+- https://marketuci.onrender.com
+- cubagamer.cloudns.be:8080/
 
 ## 🔧 Habilidades Principales
 - C#
