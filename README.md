@@ -5,7 +5,7 @@ vivo en la Habana
 
 ## 🚀 Proyectos Desplegados
 - https://marketuci.onrender.com
-- cubagamer.cloudns.be:8080/
+- http://cubagamer.cloudns.be:8080/
 
 ## 🔧 Habilidades Principales
 - C#
