@@ -15,6 +15,8 @@ vivo en la Habana
 - C++
 - Nodejs
 - Javascript
+- NestJS
+- Docker
 
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
