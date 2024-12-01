@@ -22,7 +22,19 @@ vivo en la Habana
       <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,angular,django,react,tailwind,sklearn,dotnet,sqlite" />
     </a>
   </p>
- | ![Chichimokers's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)              | ![Bueurro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    |  
+  |                                                                     Chichimokers's Stats                                                                     |                                                                     Chichimokers's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)              | ![Chichimokers's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    |  
+
+## Chichimokers's Top Langs
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chichimokers&langs_count=8&theme=algolia&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chichimokers&langs_count=8&theme=algolia&layout=compact" alt="Top Langs"/>
+  </a>
+</p>
+
+ 
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
 - Sitio web: [https://marketuci.onrender.com/]
