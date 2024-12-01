@@ -22,7 +22,7 @@ vivo en la Habana
       <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,angular,django,react,tailwind,sklearn,dotnet,sqlite" />
     </a>
   </p>
-  
+ | ![Chichimokers's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)              | ![Bueurro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    |  
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
 - Sitio web: [https://marketuci.onrender.com/]
