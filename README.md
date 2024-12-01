@@ -24,8 +24,8 @@ vivo en la Habana
   </p>
 
 
-| ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)          
-(https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    
+| ![Chichimokers's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)          
+| ![Chichimokers's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    
 
 
 ## Chichimokers's Top Langs
