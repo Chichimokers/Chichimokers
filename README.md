@@ -22,9 +22,11 @@ vivo en la Habana
       <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,angular,django,react,tailwind,sklearn,dotnet,sqlite" />
     </a>
   </p>
-  |                                                                     Chichimokers's Stats                                                                     |                                                                     Chichimokers's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)              | ![Chichimokers's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    |  
+
+
+| ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia)          
+(https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia)                    
+
 
 ## Chichimokers's Top Langs
 
