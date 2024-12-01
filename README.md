@@ -19,7 +19,7 @@ vivo en la Habana
 - Docker
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,cpp,npm,nestjs,mongodb,mysql,angular,django,react,tailwind,sklearn,dotnet,sqlite" />
+      <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,cpp,npm,nestjs,mongodb,mysql,angular,django,react,tailwind,sklearn,dotnet,docker,sqlite" />
     </a>
   </p>
 
