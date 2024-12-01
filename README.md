@@ -19,7 +19,7 @@ vivo en la Habana
 - Docker
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,html,css" />
+      <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css" />
     </a>
   </p>
   
