@@ -17,7 +17,12 @@ vivo en la Habana
 - Javascript
 - NestJS
 - Docker
-
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=C#,react,.net,nestjs,docker,py,cs,js,ts,kotlin,html,css" />
+    </a>
+  </p>
+  
 ## 💬 Contacto
 - Correo electrónico: ernestico833@gmail.com
 - Sitio web: [https://marketuci.onrender.com/]
