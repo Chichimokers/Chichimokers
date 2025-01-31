@@ -1,6 +1,6 @@
 ## 📝 Biografía
 📚 Soy un estudiante de Ingeniería en Ciencias Informáticas en la UCI. Me considero una persona proactiva con gran capacidad de aprendizaje rápido de nuevas tecnologías. Resido en La Habana, Cuba.
-
+twwiter:https://x.com/JuanGar15492597
 ## 🚀 Proyectos Desplegados
 - 🌐 [MarketUci](https://marketuci.onrender.com) - Plataforma de anuncios creada con Django y frontend en HTML, CSS y JavaScript.
 - 🛡️ [BF3 AntiHook](http://cubagamer.cloudns.be:8080/) - Servicio antitrampas para servidores de Battlefield 3.
