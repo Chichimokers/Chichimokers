@@ -1,5 +1,6 @@
 ## 💼 Perfil profesional
--Convertirme en desarrollador web fullstack
+-Backend developer
+
 
 ## 🎓 Educación
 
@@ -7,7 +8,8 @@
 -Estudiante de Ciencias Informaticas en la UCI
 
 ## 💼 Experiencia laboral
--Cree mi propia web de anuncios
+-Ecommerce https://esaki-jrr.com
+
 
 ### Empresa, Ciudad
 -La Habana,Carretera Cacahual Edificio 2 apartamento 5
