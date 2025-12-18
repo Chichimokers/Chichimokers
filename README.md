@@ -9,7 +9,7 @@
 ✉️ Email: ernestico833@gmail.com  
 🌐 Portafolio: [EsakiShop](https://esaki-jrr.com)  
 👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
-
+[![committers.top badge](https://user-badge.committers.top/cuba/USERNAME.svg)](https://user-badge.committers.top/cuba/Chichimokers)
 ---
 
 ## 🛠️ Habilidades Técnicas
