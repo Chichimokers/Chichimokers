@@ -10,7 +10,7 @@
 🌐 Portafolio: [EsakiShop](https://esaki-jrr.com)  
 👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
 
-[![committers.top badge](https://user-badge.committers.top/cuba/Chichimokers.svg)](https://user-badge.committers.top/cuba/Chichimokers)
+[![Rank en COMMITS publicos badge](https://user-badge.committers.top/cuba/Chichimokers.svg)](https://user-badge.committers.top/cuba/Chichimokers)
 
 https://github.com/Chichimokers
 ---
