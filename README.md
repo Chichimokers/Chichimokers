@@ -3,12 +3,15 @@
 📚 Soy estudiante de Ingeniería en Ciencias Informáticas en la Universidad de las Ciencias Informáticas (UCI), en La Habana, Cuba.  
 💡 Me considero una persona proactiva, apasionada por el desarrollo de software, con una alta capacidad para aprender nuevas tecnologías rápidamente.  
 🚀 Tengo experiencia en desarrollo full-stack, bots automatizados y soluciones tecnológicas personalizadas, tanto en equipo como de forma individual.
-![Contador de Visitas](https://komarev.com/ghpvc/?username=Chichimokers&color=blueviolet)
+
 🔗 Twitter: [@JuanGar15492597](https://x.com/JuanGar15492597)  
 📞 Teléfono: +5358126024  
 ✉️ Email: ernestico833@gmail.com  
 🌐 Portafolio: [EsakiShop](https://esaki-jrr.com)  
 👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=Chichimokers&color=blueviolet)
+
 
 [![Rank en COMMITS publicos badge](https://user-badge.committers.top/cuba/Chichimokers.svg)](https://user-badge.committers.top/cuba/Chichimokers)
 
