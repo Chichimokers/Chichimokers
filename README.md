@@ -1,5 +1,5 @@
 ## 📝 Biografía
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chichimokers&label=Profile%20views&color=0e75b6&style=flat" alt="Chichimokers" /> </p>
 📚 Soy estudiante de Ingeniería en Ciencias Informáticas en la Universidad de las Ciencias Informáticas (UCI), en La Habana, Cuba.  
 💡 Me considero una persona proactiva, apasionada por el desarrollo de software, con una alta capacidad para aprender nuevas tecnologías rápidamente.  
 🚀 Tengo experiencia en desarrollo full-stack, bots automatizados y soluciones tecnológicas personalizadas, tanto en equipo como de forma individual.
