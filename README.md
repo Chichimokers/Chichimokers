@@ -2,7 +2,7 @@
 
 📚 Soy estudiante de Ingeniería en Ciencias Informáticas en la Universidad de las Ciencias Informáticas (UCI), en La Habana, Cuba.  
 💡 Me considero una persona proactiva, apasionada por el desarrollo de software, con una alta capacidad para aprender nuevas tecnologías rápidamente.  
-🚀 Tengo experiencia en desarrollo full-stack, bots automatizados y soluciones tecnológicas personalizadas, tanto en equipo como de forma individual.
+🚀 Tengo experiencia en desarrollo full‑stack, bots automatizados, plataformas multi‑tenant, soluciones de e‑commerce, sistemas anti‑trampas e integración de pasarelas de pago, tanto en equipo como de forma individual.
 
 🔗 Twitter: [@JuanGar15492597](https://x.com/JuanGar15492597)  
 📞 Teléfono: +5358126024  
@@ -12,21 +12,19 @@
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=Chichimokers&color=blueviolet)
 
-
 [![Rank en COMMITS publicos badge](https://user-badge.committers.top/cuba/Chichimokers.svg)](https://user-badge.committers.top/cuba/Chichimokers)
-
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-- **Lenguajes:** C#, Python, C++, JavaScript, TypeScript, Kotlin  
-- **Frameworks y Librerías:** NestJS, Django, React.js, Angular, .NET, Next.js  
-- **Bases de Datos:** MongoDB, MySQL, SQLite  
-- **Herramientas:** Docker, Node.js, Tailwind CSS, Sklearn, Meld, YML  
+- **Lenguajes:** C#, Python, C++, JavaScript, TypeScript, Dart, Java, Kotlin  
+- **Frameworks y Librerías:** NestJS, Django, React.js, Angular, .NET, Next.js, Flutter, Kotlin Multiplatform (KMP), Razor Pages, Tailwind CSS  
+- **Bases de Datos:** MongoDB, MySQL, SQLite, PostgreSQL, Redis  
+- **Herramientas:** Docker, Sklearn, Node.js, Gradle, Maven, YML, Meld  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=yml,py,cs,js,ts,kotlin,html,css,nextjs,cpp,npm,nestjs,mongodb,mysql,angular,django,react,tailwind,sklearn,dotnet,docker,sqlite" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,dart,java,cpp,html,css,nextjs,nestjs,angular,react,tailwind,flutter,dotnet,django,nodejs,mongodb,mysql,sqlite,postgresql,redis,docker,sklearn,gradle,maven,yml" alt="Skills" />
 </p>
 
 ---
@@ -34,23 +32,54 @@
 ## 🏆 Proyectos Destacados
 
 ### 🛒 [EsakiShop](https://esaki-jrr.com)
-- **Tipo:** E-commerce
-- **Stack:** Next.js + NestJS
-- **Descripción:** Tienda online totalmente funcional utilizada por clientes reales. Proyecto privado por motivos comerciales.
+- **Cliente:** VenTech S.A. Commercial Group  
+- **Stack:** Next.js + NestJS  
+- **Descripción:** Plataforma de e‑commerce con gestión de productos, pasarela de pagos y administración por roles. Proyecto privado por motivos comerciales. Operativo en esaki-jrr.com.
 
 ### 🌐 [MarketUci](https://marketuci.onrender.com)
-- **Repositorio:** [GitHub](https://github.com/Chichimokers/MarketUci)
-- **Descripción:** Plataforma web de anuncios desarrollada con Django en el backend y HTML/CSS/JS en el frontend.
+- **Repositorio:** [GitHub](https://github.com/Chichimokers/MarketUci)  
+- **Stack:** Django + HTML/CSS/JS  
+- **Descripción:** Plataforma de anuncios clasificados con búsqueda avanzada, listados destacados y validación por email.
 
 ### 🛡️ [BF3 AntiHook](http://cubagamer.cloudns.be:8080/)
-- **Descripción:** Sistema anti-trampas para servidores de Battlefield 3. Proyecto privado por ser parte de un servicio comercial.
+- **Stack:** C# + .NET  
+- **Descripción:** Sistema anti‑trampas para servidores de Battlefield 3. Detecta modificaciones en tiempo real y reporta eventos sospechosos. En producción bajo licencia comercial privada.
 
 ### 🤖 [Pediatria Bot](https://github.com/Chichimokers/PediatriaBot)
-- **Descripción:** Bot automatizado para cargar archivos a plataformas de revistas médicas en Cuba. Devuelve enlaces útiles para descarga.
+- **Stack:** Python + Automatización  
+- **Descripción:** Bot para subir y gestionar publicaciones científicas en revistas médicas cubanas. Facilita el acceso rápido a contenidos mediante enlaces directos.
+
+### 📄 Goby.cyvy.online
+- **Stack:** Django, Razor Pages (C#), React/Next.js  
+- **Descripción:** Plataforma web para gestión de pólizas de seguros, cotizaciones y siniestros. Integración de backend con Django y frontend con Razor Pages/React.
+
+### 🧠 Smarthub.bot
+- **Stack:** Django, IA (chat automatizado), arquitectura multi‑tenant  
+- **Descripción:** Plataforma multi‑tenant para gestión de inventarios con chat automatizado por IA. Diseñada para escalabilidad y experiencia de usuario intuitiva.
+
+### 🏠 demo.hauzertech.com.br
+- **Stack:** React, Django, arquitectura multi‑tenant  
+- **Descripción:** Plataforma multi‑tenant para administración inmobiliaria (propiedades, clientes, transacciones). Enfoque en escalabilidad y UX (HauzerTech, 2025).
+
+### 📱 smsrenta.com
+- **Stack:** React, Django, PostgreSQL, Redis  
+- **Descripción:** Sistema automatizado para compra de números virtuales usando daisysms y getatex.
+
+### 💱 remesasmx.mx
+- **Stack:** React  
+- **Descripción:** Landing page para visualizar el precio de USDT a MXN.
+
+### 🔁 sokyrecarqas.com
+- **Stack:** React, PHP Laravel  
+- **Descripción:** Sistema para compra online de recargas cubanas y sistema P2P de intercambio de tokens, con integración de Nowpayments para autofondeo de cuentas.
 
 ---
 
 ## 📊 Estadísticas de GitHub
+
+- **Repositorios:** 15+ activos (públicos y privados)  
+- **Lenguajes más usados:** JavaScript, TypeScript, Python, C#  
+- **Contribuciones:** Proyectos open‑source y colaboraciones internacionales.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia" alt="GitHub Stats" />
