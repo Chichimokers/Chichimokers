@@ -19,12 +19,12 @@
 ## 🛠️ Habilidades Técnicas
 
 - **Lenguajes:** C#, Python, C++, JavaScript, TypeScript, Dart, Java, Kotlin  
-- **Frameworks y Librerías:** NestJS, Django, React.js, Angular, .NET, Next.js, Flutter, Kotlin Multiplatform (KMP), Razor Pages, Tailwind CSS  
+- **Frameworks y Librerías:** NestJS, Django, React.js, Angular, .NET, Next.js, Flutter, Kotlin Multiplatform (KMP), Razor Pages, Tailwind CSS, Express, FastAPI, Spring, GraphQL  
 - **Bases de Datos:** MongoDB, MySQL, SQLite, PostgreSQL, Redis  
-- **Herramientas:** Docker, Sklearn, Node.js, Gradle, Maven, YML, Meld  
+- **Herramientas:** Docker, Sklearn, Node.js, Gradle, Maven, YML, Meld, Postman, Git, GitHub, Linux, Bash  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,dart,java,cpp,html,css,nextjs,nestjs,angular,react,tailwind,flutter,dotnet,django,nodejs,mongodb,mysql,sqlite,postgresql,redis,docker,sklearn,gradle,maven,yml" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,dart,java,cpp,html,css,nextjs,nestjs,angular,react,tailwind,flutter,dotnet,django,nodejs,express,fastapi,spring,graphql,prisma,mongodb,mysql,sqlite,postgresql,redis,docker,sklearn,gradle,maven,yml,postman,git,github,linux,bash" alt="Skills" />
 </p>
 
 ---
@@ -98,6 +98,22 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chichimokers&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 📈 Más Widgets & Métricas
+
+### 🔥 Actividad reciente (últimos 31 días)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chichimokers&theme=github-compact&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 🃏 Tarjeta de perfil global
+<p align="center">
+  <img src="https://card.shiina.xyz/card/Chichimokers" alt="GitHub Profile Card" />
+</p>
+
+> 💡 *Estos widgets se actualizan automáticamente cada vez que visitas tu perfil. No necesitas configurar nada más.*
 
 ---
 
