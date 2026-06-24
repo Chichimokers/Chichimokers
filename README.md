@@ -6,7 +6,7 @@
 
 🔗 Twitter: [@JuanGar15492597](https://x.com/JuanGar15492597)  
 📞 Teléfono: +5358126024  
-✉️ Email: ernestico833@gmail.com  
+✉️ Email: developer1575@gmail.com
 🌐 Portafolio: [EsakiShop](https://esaki-jrr.com)  
 👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
 
