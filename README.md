@@ -1,6 +1,6 @@
 ## 📝 Biografía
 
-📚 Soy estudiante de Ingeniería en Ciencias Informáticas en la Universidad de las Ciencias Informáticas (UCI), en La Habana, Cuba.  
+📚 Ingeniero en Ciencias Informáticas , en La Habana, Cuba.  
 💡 Me considero una persona proactiva, apasionada por el desarrollo de software, con una alta capacidad para aprender nuevas tecnologías rápidamente.  
 🚀 Tengo experiencia en desarrollo full‑stack, bots automatizados, plataformas multi‑tenant, soluciones de e‑commerce, sistemas anti‑trampas e integración de pasarelas de pago, tanto en equipo como de forma individual.
 
