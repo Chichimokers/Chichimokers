@@ -7,7 +7,7 @@
 🔗 Twitter: [@JuanGar15492597](https://x.com/JuanGar15492597)  
 📞 Teléfono: +5358126024  
 ✉️ Email: developer1575@gmail.com
-🌐 Portafolio: [EsakiShop](https://esaki-jrr.com)  
+🌐 Portafolio: https://port-filio.vercel.app/
 👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
 
 ![Contador de Visitas](https://komarev.com/ghpvc/?username=Chichimokers&color=blueviolet)
