@@ -1,44 +1,143 @@
-# ¡Hola! Soy Chichimokers 👋
+## 📝 Biografía
 
-Ingeniero en Ciencias Informáticas en La Habana, Cuba. Desarrollo herramientas y productos de software, con experiencia en backend, aplicaciones full-stack, automatización, plataformas multi-tenant, comercio electrónico e infraestructura para juegos.
+📚 Ingeniero en Ciencias Informáticas , en La Habana, Cuba.  
+💡 Me considero una persona proactiva, apasionada por el desarrollo de software, con una alta capacidad para aprender nuevas tecnologías rápidamente.  
+🚀 Tengo experiencia en desarrollo full‑stack, bots automatizados, plataformas multi‑tenant, soluciones de e‑commerce, sistemas anti‑trampas e integración de pasarelas de pago, tanto en equipo como de forma individual.
 
-## Proyectos destacados
+🔗 Twitter: [@JuanGar15492597](https://x.com/JuanGar15492597)  
+📞 Teléfono: +5358126024  
+✉️ Email: developer1575@gmail.com
+🌐 Portafolio: https://port-filio.vercel.app/
+👨‍💻 GitHub: [Chichimokers](https://github.com/Chichimokers)
 
-### Infraestructura y herramientas
+![Contador de Visitas](https://komarev.com/ghpvc/?username=Chichimokers&color=blueviolet)
 
-- **[Age LAN Server](https://github.com/Chichimokers/ageLANServer)** — servidor y launcher para crear lobbies multijugador sin depender de los servidores oficiales en juegos de Age of Empires y Age of Mythology.
-- **[HostSpy](https://github.com/Chichimokers/hostspy)** — proxy HTTP/TLS y relay TCP/TLS en Go, con registro de tráfico y herramientas de diagnóstico para protocolos como WebSocket y protobuf.
-- **[NetTrace](https://github.com/Chichimokers/nettrace)** — observador para Windows que relaciona procesos, conexiones TCP/UDP y consultas DNS usando ETW e IP Helper. No captura el contenido TLS.
-- **[StarCraft II LAN Research](https://github.com/Chichimokers/sc2-lan-research)** — investigación de BGS/Aurora, emuladores existentes y viabilidad de partidas LAN con SC2 moderno; documenta hechos, hipótesis y próximos pasos.
-- **[BF3 AntiHook](http://cubagamer.cloudns.be:8080/)** — sistema anti-trampas para servidores de Battlefield 3, desarrollado en C# y .NET.
-
-### Aplicaciones
-
-- **[MarketUci](https://github.com/Chichimokers/MarketUci)** — plataforma de anuncios clasificados con búsqueda, listados destacados y validación por correo.
-- **[Pediatria Bot](https://github.com/Chichimokers/PediatriaBot)** — automatización para publicar y organizar contenido científico de revistas médicas cubanas.
-- **EsakiShop** — plataforma de comercio electrónico con gestión de productos, pagos y administración por roles; [esaki-jrr.com](https://esaki-jrr.com).
-
-### Otros proyectos de producto
-
-Experiencia en sistemas de seguros, gestión inmobiliaria multi-tenant, inventario con chat automatizado, compra de números virtuales, recargas y pagos, y visualización de precios de criptomonedas.
-
-## Tecnologías
-
-**Lenguajes:** Go, C#, Python, C++, JavaScript y TypeScript, Dart, Java y Kotlin.  
-**Frameworks:** .NET, Django, NestJS, React, Next.js, Angular, Flutter, FastAPI, Express y Spring.  
-**Datos e infraestructura:** PostgreSQL, MySQL, SQLite, MongoDB, Redis, Docker, Linux y Git.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,python,cpp,js,ts,dart,java,kotlin,dotnet,django,nestjs,react,nextjs,angular,flutter,postgres,mysql,sqlite,mongodb,redis,docker,git,linux" alt="Tecnologías" />
-</p>
-
-## Contacto
-
-- **Portafolio:** [port-filio.vercel.app](https://port-filio.vercel.app/)
-- **X:** [@JuanGar15492597](https://x.com/JuanGar15492597)
-- **Email:** [developer1575@gmail.com](mailto:developer1575@gmail.com) · [ernestico833@gmail.com](mailto:ernestico833@gmail.com)
-- **Teléfono:** [+53 5812 6024](tel:+5358126024)
+[![Rank en COMMITS publicos badge](https://user-badge.committers.top/cuba/Chichimokers.svg)](https://user-badge.committers.top/cuba/Chichimokers)
 
 ---
 
-*Prefiero que el perfil destaque proyectos y herramientas mantenibles; por eso quité contadores y tarjetas externas de estadísticas que suelen quedarse desactualizados o depender de servicios de terceros.*
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes:** C#, Python, C++, JavaScript, TypeScript, Dart, Java, Kotlin, Go  
+- **Frameworks y Librerías:** NestJS, Django, React.js, Angular, .NET, Next.js, Flutter, Kotlin Multiplatform (KMP), Razor Pages, Tailwind CSS, Express, FastAPI, Spring, GraphQL  
+- **Bases de Datos:** MongoDB, MySQL, SQLite, PostgreSQL, Redis  
+- **Herramientas:** Docker, Sklearn, Node.js, Gradle, Maven, YML, Meld, Postman, Git, GitHub, Linux, Bash  
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,go,cs,js,ts,kotlin,dart,java,cpp,html,css,nextjs,nestjs,angular,react,tailwind,flutter,dotnet,django,nodejs,express,fastapi,spring,graphql,prisma,mongodb,mysql,sqlite,postgresql,redis,docker,sklearn,gradle,maven,yml,postman,git,github,linux,bash" alt="Skills" />
+</p>
+
+---
+
+## 🏆 Proyectos Destacados
+
+### 🎮 [Age LAN Server](https://github.com/Chichimokers/ageLANServer)
+- **Stack:** Go
+- **Descripción:** Servidor web y launcher para crear lobbies multijugador de Age of Empires y Age of Mythology sin depender de los servidores oficiales.
+
+### 🔎 [HostSpy](https://github.com/Chichimokers/hostspy)
+- **Stack:** Go
+- **Descripción:** Proxy HTTP/TLS y relay TCP/TLS para observar y diagnosticar tráfico de red, incluyendo WebSocket y protobuf.
+
+### 📡 [NetTrace](https://github.com/Chichimokers/nettrace)
+- **Stack:** Go, Windows ETW e IP Helper
+- **Descripción:** Herramienta de observación que relaciona procesos con conexiones TCP/UDP y consultas DNS, sin capturar contenido TLS.
+
+### 🧪 [StarCraft II LAN Research](https://github.com/Chichimokers/sc2-lan-research)
+- **Estado:** Investigación en curso
+- **Descripción:** Notas sobre BGS/Aurora, emuladores existentes y viabilidad de partidas LAN en SC2 moderno; separa hallazgos confirmados de hipótesis.
+
+### 🛒 [EsakiShop](https://esaki-jrr.com)
+- **Cliente:** VenTech S.A. Commercial Group  
+- **Stack:** Next.js + NestJS  
+- **Descripción:** Plataforma de e‑commerce con gestión de productos, pasarela de pagos y administración por roles. Proyecto privado por motivos comerciales. Operativo en esaki-jrr.com.
+
+### 🌐 [MarketUci](https://marketuci.onrender.com)
+- **Repositorio:** [GitHub](https://github.com/Chichimokers/MarketUci)  
+- **Stack:** Django + HTML/CSS/JS  
+- **Descripción:** Plataforma de anuncios clasificados con búsqueda avanzada, listados destacados y validación por email.
+
+### 🛡️ [BF3 AntiHook](http://cubagamer.cloudns.be:8080/)
+- **Stack:** C# + .NET  
+- **Descripción:** Sistema anti‑trampas para servidores de Battlefield 3. Detecta modificaciones en tiempo real y reporta eventos sospechosos. En producción bajo licencia comercial privada.
+
+### 🤖 [Pediatria Bot](https://github.com/Chichimokers/PediatriaBot)
+- **Stack:** Python + Automatización  
+- **Descripción:** Bot para subir y gestionar publicaciones científicas en revistas médicas cubanas. Facilita el acceso rápido a contenidos mediante enlaces directos.
+
+### 📄 Goby.cyvy.online
+- **Stack:** Django, Razor Pages (C#), React/Next.js  
+- **Descripción:** Plataforma web para gestión de pólizas de seguros, cotizaciones y siniestros. Integración de backend con Django y frontend con Razor Pages/React.
+
+### 🧠 Smarthub.bot
+- **Stack:** Django, IA (chat automatizado), arquitectura multi‑tenant  
+- **Descripción:** Plataforma multi‑tenant para gestión de inventarios con chat automatizado por IA. Diseñada para escalabilidad y experiencia de usuario intuitiva.
+
+### 🏠 demo.hauzertech.com.br
+- **Stack:** React, Django, arquitectura multi‑tenant  
+- **Descripción:** Plataforma multi‑tenant para administración inmobiliaria (propiedades, clientes, transacciones). Enfoque en escalabilidad y UX (HauzerTech, 2025).
+
+### 📱 smsrenta.com
+- **Stack:** React, Django, PostgreSQL, Redis  
+- **Descripción:** Sistema automatizado para compra de números virtuales usando daisysms y getatex.
+
+### 💱 remesasmx.mx
+- **Stack:** React  
+- **Descripción:** Landing page para visualizar el precio de USDT a MXN.
+
+### 🔁 sokyrecarqas.com
+- **Stack:** React, PHP Laravel  
+- **Descripción:** Sistema para compra online de recargas cubanas y sistema P2P de intercambio de tokens, con integración de Nowpayments para autofondeo de cuentas.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+- **Repositorios:** 15+ activos (públicos y privados)  
+- **Lenguajes más usados:** JavaScript, TypeScript, Python, C#  
+- **Contribuciones:** Proyectos open‑source y colaboraciones internacionales.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chichimokers&show_icons=true&theme=algolia" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chichimokers&theme=algolia" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Chichimokers&langs_count=8&theme=algolia&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chichimokers&langs_count=8&theme=algolia&layout=compact" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chichimokers&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Más Widgets & Métricas
+
+### 🔥 Actividad reciente (últimos 31 días)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chichimokers&theme=github-compact&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 🃏 Tarjeta de perfil global
+<p align="center">
+  <img src="https://card.shiina.xyz/card/Chichimokers" alt="GitHub Profile Card" />
+</p>
+
+> 💡 *Estos widgets se actualizan automáticamente cada vez que visitas tu perfil. No necesitas configurar nada más.*
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+    <a href="mailto:ernestico833@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://esaki-jrr.com"><img src="https://img.shields.io/badge/Portafolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio" /></a>
+    <a href="https://x.com/JuanGar15492597"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="tel:+5358126024"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+</p>
